@@ -1,0 +1,8 @@
+<script>
+    on pageLoad {
+        console.log("Welcome to the Docon website!");
+    }
+    on menuClick {
+        event => alert("Navigating to " + event.target.innerText);
+    }
+</script>
