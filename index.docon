@@ -1,0 +1,20 @@
+<page>
+    <title>Welcome to Docon!</title>
+    <header>
+        <h1>Docon Website</h1>
+        <menu>
+            <item>Home</item>
+            <item>About</item>
+            <item>Contact</item>
+        </menu>
+    </header>
+    <body>
+        <section>
+            <title>Introduction</title>
+            <text>Welcome to the world of Docon, where simplicity meets power!</text>
+        </section>
+    </body>
+    <footer>
+        <text>&copy; 2024 Docon Team</text>
+    </footer>
+</page>
